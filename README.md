@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Muhammad-Nouman-690
-- 👀 I’m interested in Web and Mobile Hybrid Application
-- 🌱 I’m currently learning React Js 
+- 🌱 I’m currently learning and explore new things in Fin-Tech. 
 - 📫 How to reach me https://www.linkedin.com/in/nouman-aqeel-93846911b/
 
 <!---
